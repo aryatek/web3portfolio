@@ -14,8 +14,8 @@ Decentralised Web3 Portfolio website build using HTML5, CSS3, JavaScript and jQu
 Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 ## 📌 Sneak Peek of Main Page 🙈 :
-![mockup720](https://user-images.githubusercontent.com/64949957/124947013-1f682080-e02d-11eb-977e-df3bbd4fa838.png)
-![ss](https://user-images.githubusercontent.com/64949957/159113640-d92665a8-f614-42b3-8456-66b97fc2e651.png)
+![mockup720](https://drive.google.com/file/d/18koFFMZj_h5C8Q8rI9Wns9dVpLcknHor/view?usp=drivesdk)
+![ss](https://drive.google.com/file/d/150o8EFu0HwPsbu4S2gLL1s7Euw2gupva/view?usp=sharing)
 
 
 <h2>📬 Contact</h2>
